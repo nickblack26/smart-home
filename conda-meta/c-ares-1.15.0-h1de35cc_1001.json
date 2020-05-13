@@ -1,0 +1,176 @@
+{
+  "build": "h1de35cc_1001",
+  "build_number": 1001,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/nicholasblack/anaconda3/pkgs/c-ares-1.15.0-h1de35cc_1001",
+  "features": "",
+  "files": [
+    "bin/acountry",
+    "bin/adig",
+    "bin/ahost",
+    "include/ares.h",
+    "include/ares_build.h",
+    "include/ares_dns.h",
+    "include/ares_rules.h",
+    "include/ares_version.h",
+    "lib/cmake/c-ares/c-ares-config.cmake",
+    "lib/cmake/c-ares/c-ares-targets-release.cmake",
+    "lib/cmake/c-ares/c-ares-targets.cmake",
+    "lib/libcares.2.3.0.dylib",
+    "lib/libcares.2.dylib",
+    "lib/libcares.dylib",
+    "lib/libcares_static.a",
+    "lib/pkgconfig/libcares.pc"
+  ],
+  "fn": "c-ares-1.15.0-h1de35cc_1001.conda",
+  "legacy_bz2_md5": "3f411d494c459dc3cef4d53bf6b5c12f",
+  "legacy_bz2_size": 85322,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/nicholasblack/anaconda3/pkgs/c-ares-1.15.0-h1de35cc_1001",
+    "type": 1
+  },
+  "md5": "b6acaefee16ad84e8633bccbe9cb7ef7",
+  "name": "c-ares",
+  "package_tarball_full_path": "/Users/nicholasblack/anaconda3/pkgs/c-ares-1.15.0-h1de35cc_1001.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/acountry",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "0fe3a8f72c8ba8220ab42a63b31d99ecaa9caf85061aea5052e2d10531c3d56f",
+        "sha256_in_prefix": "9249a87d3fb825032a4149c3d5ea010e8f40c6213e376a01d893158a1772c87c",
+        "size_in_bytes": 23052
+      },
+      {
+        "_path": "bin/adig",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "20df8308c4a8cd3021e09e3f2615fdfffec7bff2c9dbd99703f220e39c1889f8",
+        "sha256_in_prefix": "32ec40bddc81761a57dee584be2852ab9d09c447752bb25942f1b7a5cccb4388",
+        "size_in_bytes": 19304
+      },
+      {
+        "_path": "bin/ahost",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "e0345d8cf640634da4c5b7ad3970e37492478b73f2163b4cf0a1215e6c4dfafc",
+        "sha256_in_prefix": "016519e0b093cfee03c57d7eaf940f976778100b59c89c2e33c2c217831b71a1",
+        "size_in_bytes": 14608
+      },
+      {
+        "_path": "include/ares.h",
+        "path_type": "hardlink",
+        "sha256": "49766fcdc026a7392c86c56585cd0b71467b02e626c88b144f06718fb2f4e6d5",
+        "sha256_in_prefix": "49766fcdc026a7392c86c56585cd0b71467b02e626c88b144f06718fb2f4e6d5",
+        "size_in_bytes": 23628
+      },
+      {
+        "_path": "include/ares_build.h",
+        "path_type": "hardlink",
+        "sha256": "37363ea835be8380f7022e316bf5676de6ce8ebada42a463a957c13fe615b280",
+        "sha256_in_prefix": "37363ea835be8380f7022e316bf5676de6ce8ebada42a463a957c13fe615b280",
+        "size_in_bytes": 959
+      },
+      {
+        "_path": "include/ares_dns.h",
+        "path_type": "hardlink",
+        "sha256": "9cf404a4a546a2b67a319a0be1a8380bcca0c86631a095c14136193c3b844e04",
+        "sha256_in_prefix": "9cf404a4a546a2b67a319a0be1a8380bcca0c86631a095c14136193c3b844e04",
+        "size_in_bytes": 5306
+      },
+      {
+        "_path": "include/ares_rules.h",
+        "path_type": "hardlink",
+        "sha256": "4aa7066caf638c44286eb424e581c895ff0797cdaf006eda3a1b49c8601a6bed",
+        "sha256_in_prefix": "4aa7066caf638c44286eb424e581c895ff0797cdaf006eda3a1b49c8601a6bed",
+        "size_in_bytes": 4274
+      },
+      {
+        "_path": "include/ares_version.h",
+        "path_type": "hardlink",
+        "sha256": "3a907b6f90579c9f3322e3d161a486e15e64adcbb4162af13985756f67c4a007",
+        "sha256_in_prefix": "3a907b6f90579c9f3322e3d161a486e15e64adcbb4162af13985756f67c4a007",
+        "size_in_bytes": 648
+      },
+      {
+        "_path": "lib/cmake/c-ares/c-ares-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "4131abf0c96fd56252d683a18a0feb9e34be59ee40d5a258d1d85825e9e61149",
+        "sha256_in_prefix": "4131abf0c96fd56252d683a18a0feb9e34be59ee40d5a258d1d85825e9e61149",
+        "size_in_bytes": 1238
+      },
+      {
+        "_path": "lib/cmake/c-ares/c-ares-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "e23ba28e77660f8150f420229cf2370e8502cdfe1987aab07aa30f792479b016",
+        "sha256_in_prefix": "e23ba28e77660f8150f420229cf2370e8502cdfe1987aab07aa30f792479b016",
+        "size_in_bytes": 1339
+      },
+      {
+        "_path": "lib/cmake/c-ares/c-ares-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "fdbb48d03037b5be8ac4a1817e9bab51a315eb6a452044f3c6df7afc75d5c77c",
+        "sha256_in_prefix": "fdbb48d03037b5be8ac4a1817e9bab51a315eb6a452044f3c6df7afc75d5c77c",
+        "size_in_bytes": 3738
+      },
+      {
+        "_path": "lib/libcares.2.3.0.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "048dab265df51c7d8a4afe603733fb973d4a54ab169a9368684e240c2fe10a52",
+        "sha256_in_prefix": "a648af91c8eb800be7acff1e75f92739aff739f8963a1489fed8a056c4e9947e",
+        "size_in_bytes": 73988
+      },
+      {
+        "_path": "lib/libcares.2.dylib",
+        "file_mode": "binary",
+        "path_type": "softlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "048dab265df51c7d8a4afe603733fb973d4a54ab169a9368684e240c2fe10a52",
+        "size_in_bytes": 73988
+      },
+      {
+        "_path": "lib/libcares.dylib",
+        "file_mode": "binary",
+        "path_type": "softlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/7b740278-d9e7-44b1-4d0d-9f570f76ca6f/volume/c-ares_1564157337421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "048dab265df51c7d8a4afe603733fb973d4a54ab169a9368684e240c2fe10a52",
+        "size_in_bytes": 73988
+      },
+      {
+        "_path": "lib/libcares_static.a",
+        "path_type": "hardlink",
+        "sha256": "d046c177a1bda040afbe3115fef1fcebb355f65c39c4e74a979d4ccfd36a8d10",
+        "sha256_in_prefix": "d046c177a1bda040afbe3115fef1fcebb355f65c39c4e74a979d4ccfd36a8d10",
+        "size_in_bytes": 113832
+      },
+      {
+        "_path": "lib/pkgconfig/libcares.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "5f3cf137e35f49e2d2dec3a7a0b84a974360093751d483a8b70ae1a992d32f2f",
+        "sha256_in_prefix": "9a975c2a61d54d50a904425e5eac321bee7b455fe098a43e5ffb90c2b155ad33",
+        "size_in_bytes": 583
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0274d185eb5d3a77b33c93fcca170f56b3ae217ede4790d8e3f6eeab8296b75e",
+  "size": 74570,
+  "subdir": "osx-64",
+  "timestamp": 1564157464634,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/c-ares-1.15.0-h1de35cc_1001.conda",
+  "version": "1.15.0"
+}

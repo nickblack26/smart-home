@@ -1,0 +1,61 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/nicholasblack/anaconda3/pkgs/termcolor-1.1.0-py37_1",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/__pycache__/termcolor.cpython-37.pyc",
+    "lib/python3.7/site-packages/termcolor-1.1.0-py3.7.egg-info",
+    "lib/python3.7/site-packages/termcolor.py"
+  ],
+  "fn": "termcolor-1.1.0-py37_1.conda",
+  "legacy_bz2_md5": "e23d4a620d6f04b3fcba0e9bf0c0053c",
+  "legacy_bz2_size": 7786,
+  "license": "MIT",
+  "link": {
+    "source": "/Users/nicholasblack/anaconda3/pkgs/termcolor-1.1.0-py37_1",
+    "type": 1
+  },
+  "md5": "521b10199fea152d29feabcce1e750aa",
+  "name": "termcolor",
+  "package_tarball_full_path": "/Users/nicholasblack/anaconda3/pkgs/termcolor-1.1.0-py37_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/termcolor.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "61896d4a4cd3768fe92d3dff2dd24406a43d75b7acaa31e82382fc0db4f52a54",
+        "sha256_in_prefix": "61896d4a4cd3768fe92d3dff2dd24406a43d75b7acaa31e82382fc0db4f52a54",
+        "size_in_bytes": 3021
+      },
+      {
+        "_path": "lib/python3.7/site-packages/termcolor-1.1.0-py3.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "eceaf6f90b5ec928d3daf18f9d5685cf7233bf0a956eb4b4a0f80681528ff042",
+        "sha256_in_prefix": "eceaf6f90b5ec928d3daf18f9d5685cf7233bf0a956eb4b4a0f80681528ff042",
+        "size_in_bytes": 3997
+      },
+      {
+        "_path": "lib/python3.7/site-packages/termcolor.py",
+        "path_type": "hardlink",
+        "sha256": "3906256065402b158eb6fec9c4889212ffaf26fe450846badf7153ccc7ab63b2",
+        "sha256_in_prefix": "3906256065402b158eb6fec9c4889212ffaf26fe450846badf7153ccc7ab63b2",
+        "size_in_bytes": 5044
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f90f291a20b6ed94a4abe701421b27ee8222b69feba63d69da2358526bae24d6",
+  "size": 8669,
+  "subdir": "osx-64",
+  "timestamp": 1530918300650,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/termcolor-1.1.0-py37_1.conda",
+  "version": "1.1.0"
+}

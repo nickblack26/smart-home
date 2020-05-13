@@ -1,0 +1,150 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/nicholasblack/anaconda3/pkgs/gast-0.2.2-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/top_level.txt",
+    "lib/python3.7/site-packages/gast/__init__.py",
+    "lib/python3.7/site-packages/gast/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/gast/__pycache__/ast2.cpython-37.pyc",
+    "lib/python3.7/site-packages/gast/__pycache__/ast3.cpython-37.pyc",
+    "lib/python3.7/site-packages/gast/__pycache__/astn.cpython-37.pyc",
+    "lib/python3.7/site-packages/gast/__pycache__/gast.cpython-37.pyc",
+    "lib/python3.7/site-packages/gast/ast2.py",
+    "lib/python3.7/site-packages/gast/ast3.py",
+    "lib/python3.7/site-packages/gast/astn.py",
+    "lib/python3.7/site-packages/gast/gast.py"
+  ],
+  "fn": "gast-0.2.2-py37_0.conda",
+  "legacy_bz2_md5": "bc4717c5aa64ab20fcb238c6b42443cc",
+  "legacy_bz2_size": 140479,
+  "license": "BSD License",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/nicholasblack/anaconda3/pkgs/gast-0.2.2-py37_0",
+    "type": 1
+  },
+  "md5": "cdaab55cc42147e7c78389badf43d0c4",
+  "name": "gast",
+  "package_tarball_full_path": "/Users/nicholasblack/anaconda3/pkgs/gast-0.2.2-py37_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "0efb53baa985c45da51e249b5432e3c9098c1654db7522a44c4807e30a285de3",
+        "sha256_in_prefix": "0efb53baa985c45da51e249b5432e3c9098c1654db7522a44c4807e30a285de3",
+        "size_in_bytes": 1115
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "f90718c5fc5dff107e52a0b5783b20b9e4687855e2532726baaa75fbbcdc9cd3",
+        "sha256_in_prefix": "f90718c5fc5dff107e52a0b5783b20b9e4687855e2532726baaa75fbbcdc9cd3",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast-0.2.2-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3996390ef0cd01fd7bf92301475a573d5ee227222947eeac14080e7c573f573f",
+        "sha256_in_prefix": "3996390ef0cd01fd7bf92301475a573d5ee227222947eeac14080e7c573f573f",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9effdd59a4c3a276a72e10de15f500d4721a4bd30e80fb4466fa27aacd242b74",
+        "sha256_in_prefix": "9effdd59a4c3a276a72e10de15f500d4721a4bd30e80fb4466fa27aacd242b74",
+        "size_in_bytes": 200
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "73cd3b8121338979e8883896016c6e95c425075ff30920cbc73960e232fa373c",
+        "sha256_in_prefix": "73cd3b8121338979e8883896016c6e95c425075ff30920cbc73960e232fa373c",
+        "size_in_bytes": 384
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__pycache__/ast2.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f9363d7665a76eecf54b8a2d7bc82b9d9fb88b4ad1791435d762e14dc0a7f41",
+        "sha256_in_prefix": "7f9363d7665a76eecf54b8a2d7bc82b9d9fb88b4ad1791435d762e14dc0a7f41",
+        "size_in_bytes": 6253
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__pycache__/ast3.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "affbcb39ccd5066ec419fa82cf0021f2d58c084b1e08609cd06de19aaac79f6c",
+        "sha256_in_prefix": "affbcb39ccd5066ec419fa82cf0021f2d58c084b1e08609cd06de19aaac79f6c",
+        "size_in_bytes": 4338
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__pycache__/astn.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "1520fd19cdc88d312bf61ff234be0dd8fcd569318a571497e94942008681f281",
+        "sha256_in_prefix": "1520fd19cdc88d312bf61ff234be0dd8fcd569318a571497e94942008681f281",
+        "size_in_bytes": 1360
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/__pycache__/gast.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "01055c92fa57ef531b3c26b30e9be13ca66f9967c33545e64fff30f23cf8a6fe",
+        "sha256_in_prefix": "01055c92fa57ef531b3c26b30e9be13ca66f9967c33545e64fff30f23cf8a6fe",
+        "size_in_bytes": 5135
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/ast2.py",
+        "path_type": "hardlink",
+        "sha256": "510b70180d537a9cc9fdac933992f60463bd53a524134c0a83698369ada7505f",
+        "sha256_in_prefix": "510b70180d537a9cc9fdac933992f60463bd53a524134c0a83698369ada7505f",
+        "size_in_bytes": 7622
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/ast3.py",
+        "path_type": "hardlink",
+        "sha256": "4912a4676d43e43a9531a70de4d7a1265eb80e0addb81d57cafee2769bf53d28",
+        "sha256_in_prefix": "4912a4676d43e43a9531a70de4d7a1265eb80e0addb81d57cafee2769bf53d28",
+        "size_in_bytes": 4636
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/astn.py",
+        "path_type": "hardlink",
+        "sha256": "29f7e6e9eaa5e32402ec5c6971eb228cf010c40b9f7d6e0c239d40b366502d92",
+        "sha256_in_prefix": "29f7e6e9eaa5e32402ec5c6971eb228cf010c40b9f7d6e0c239d40b366502d92",
+        "size_in_bytes": 997
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gast/gast.py",
+        "path_type": "hardlink",
+        "sha256": "4c1a9d4f31321cac3dff6af39b020fa3f903ce166ff3d69ee8ae5c3a44edc54e",
+        "sha256_in_prefix": "4c1a9d4f31321cac3dff6af39b020fa3f903ce166ff3d69ee8ae5c3a44edc54e",
+        "size_in_bytes": 9426
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0fd15f53c3365c9ac0b36658ca81319f720b0bc085118c957746ea9a0bd7d691",
+  "size": 158185,
+  "subdir": "osx-64",
+  "timestamp": 1547749799621,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/gast-0.2.2-py37_0.conda",
+  "version": "0.2.2"
+}

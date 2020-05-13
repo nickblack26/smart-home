@@ -1,0 +1,326 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/nicholasblack/anaconda3/pkgs/promise-2.2.1-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/LICENSE",
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/METADATA",
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/RECORD",
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/WHEEL",
+    "lib/python3.7/site-packages/promise-2.2.1.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/promise/__init__.py",
+    "lib/python3.7/site-packages/promise/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/async_.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/compat.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/dataloader.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/iterate_promise.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/promise.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/promise_list.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/__pycache__/utils.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/async_.py",
+    "lib/python3.7/site-packages/promise/compat.py",
+    "lib/python3.7/site-packages/promise/dataloader.py",
+    "lib/python3.7/site-packages/promise/iterate_promise.py",
+    "lib/python3.7/site-packages/promise/promise.py",
+    "lib/python3.7/site-packages/promise/promise_list.py",
+    "lib/python3.7/site-packages/promise/pyutils/__init__.py",
+    "lib/python3.7/site-packages/promise/pyutils/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/pyutils/__pycache__/version.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/pyutils/version.py",
+    "lib/python3.7/site-packages/promise/schedulers/__init__.py",
+    "lib/python3.7/site-packages/promise/schedulers/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/schedulers/__pycache__/asyncio.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/schedulers/__pycache__/gevent.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/schedulers/__pycache__/immediate.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/schedulers/__pycache__/thread.cpython-37.pyc",
+    "lib/python3.7/site-packages/promise/schedulers/asyncio.py",
+    "lib/python3.7/site-packages/promise/schedulers/gevent.py",
+    "lib/python3.7/site-packages/promise/schedulers/immediate.py",
+    "lib/python3.7/site-packages/promise/schedulers/thread.py",
+    "lib/python3.7/site-packages/promise/utils.py"
+  ],
+  "fn": "promise-2.2.1-py37_0.conda",
+  "legacy_bz2_md5": "a1a4afde6e058662daf40f0aa53bda62",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/nicholasblack/anaconda3/pkgs/promise-2.2.1-py37_0",
+    "type": 1
+  },
+  "md5": "a9307fea1b95f8a8ea4ff36420382d2e",
+  "name": "promise",
+  "package_tarball_full_path": "/Users/nicholasblack/anaconda3/pkgs/promise-2.2.1-py37_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5d328768394abffaa84512c90783941dd899a62bcc8009a4181e28b2743228ec",
+        "sha256_in_prefix": "5d328768394abffaa84512c90783941dd899a62bcc8009a4181e28b2743228ec",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "acbf4da7c7dc508f86351e45c8567d6b1498226ba1be8d595f9ce5af3d590bd9",
+        "sha256_in_prefix": "acbf4da7c7dc508f86351e45c8567d6b1498226ba1be8d595f9ce5af3d590bd9",
+        "size_in_bytes": 7445
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4e5bcc200b69dfaa959e6eab38fc3f55eed0a89a6d8fd611ccdcc3e11c394a1d",
+        "sha256_in_prefix": "4e5bcc200b69dfaa959e6eab38fc3f55eed0a89a6d8fd611ccdcc3e11c394a1d",
+        "size_in_bytes": 2469
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "d2b1c339a9dad78873b1ab9ad89d8bed9b64eacb68e363b49e826deced346631",
+        "sha256_in_prefix": "d2b1c339a9dad78873b1ab9ad89d8bed9b64eacb68e363b49e826deced346631",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise-2.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "012ff72aa4e6f67d836bdce670c938023c08c90cdc1ee33f8c4151151ab6f028",
+        "sha256_in_prefix": "012ff72aa4e6f67d836bdce670c938023c08c90cdc1ee33f8c4151151ab6f028",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7d7888b56d3e2850e967c266dd600a8194297f1fedd5055b9c29839800cf6243",
+        "sha256_in_prefix": "7d7888b56d3e2850e967c266dd600a8194297f1fedd5055b9c29839800cf6243",
+        "size_in_bytes": 873
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f714df8b7216b99f74d87d2230d3d789e64b8c5ebf2273362cb9e5470860557",
+        "sha256_in_prefix": "8f714df8b7216b99f74d87d2230d3d789e64b8c5ebf2273362cb9e5470860557",
+        "size_in_bytes": 668
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/async_.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "169085a56063b44744c476a3630c3503f024e1c22f65afb6e54ff3f65d1ebe71",
+        "sha256_in_prefix": "169085a56063b44744c476a3630c3503f024e1c22f65afb6e54ff3f65d1ebe71",
+        "size_in_bytes": 3763
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/compat.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa6c30dd67001453bd84ed8d81ff202682a42d9f72683c0b4c9eb89a845ea753",
+        "sha256_in_prefix": "aa6c30dd67001453bd84ed8d81ff202682a42d9f72683c0b4c9eb89a845ea753",
+        "size_in_bytes": 1432
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/dataloader.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "60ec3f55d5c4bc4cec952dd5bd69beb0f0d253775f797f73162f44eef2a18f5d",
+        "sha256_in_prefix": "60ec3f55d5c4bc4cec952dd5bd69beb0f0d253775f797f73162f44eef2a18f5d",
+        "size_in_bytes": 6642
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/iterate_promise.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "26b10eae0d610a767cf752f4629f429d1a66a186370641312eebbb6285dab3d1",
+        "sha256_in_prefix": "26b10eae0d610a767cf752f4629f429d1a66a186370641312eebbb6285dab3d1",
+        "size_in_bytes": 328
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/promise.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "82204531d963ee42c066b414be2ec388a12c389d25e437954d68622e60bf38b3",
+        "sha256_in_prefix": "82204531d963ee42c066b414be2ec388a12c389d25e437954d68622e60bf38b3",
+        "size_in_bytes": 19793
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/promise_list.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b3ba2053195cd4cca4879780221e58d8d73f8d7a0ebc0a67e38f311fc41b9c4f",
+        "sha256_in_prefix": "b3ba2053195cd4cca4879780221e58d8d73f8d7a0ebc0a67e38f311fc41b9c4f",
+        "size_in_bytes": 3131
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/__pycache__/utils.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "15c6a1a1d674471ad87f7588c89a150f325cd2cd3c5b47dfe043a8263f3cbb65",
+        "sha256_in_prefix": "15c6a1a1d674471ad87f7588c89a150f325cd2cd3c5b47dfe043a8263f3cbb65",
+        "size_in_bytes": 1738
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/async_.py",
+        "path_type": "hardlink",
+        "sha256": "6a58764d5e3b802450d45c989d162e3fa7b6577bcfeea74450fea5ee6c810b29",
+        "sha256_in_prefix": "6a58764d5e3b802450d45c989d162e3fa7b6577bcfeea74450fea5ee6c810b29",
+        "size_in_bytes": 3932
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/compat.py",
+        "path_type": "hardlink",
+        "sha256": "22f63713afc5c8964390e6a1c4f4d7d28afef3a5743057b96275b7bdef746bc6",
+        "sha256_in_prefix": "22f63713afc5c8964390e6a1c4f4d7d28afef3a5743057b96275b7bdef746bc6",
+        "size_in_bytes": 875
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/dataloader.py",
+        "path_type": "hardlink",
+        "sha256": "9e4ae4f2c6137982f1865e418ba58d70c907b146168e8233ae9e79dd1c05ed8f",
+        "sha256_in_prefix": "9e4ae4f2c6137982f1865e418ba58d70c907b146168e8233ae9e79dd1c05ed8f",
+        "size_in_bytes": 10871
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/iterate_promise.py",
+        "path_type": "hardlink",
+        "sha256": "d471a35910fc289921be0c748506218a98be3ba1ead71311aed6a3319ae05c0f",
+        "sha256_in_prefix": "d471a35910fc289921be0c748506218a98be3ba1ead71311aed6a3319ae05c0f",
+        "size_in_bytes": 296
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/promise.py",
+        "path_type": "hardlink",
+        "sha256": "673226b95b37f6f1e42961a01306e39486d143e91db244d12c7eb7ac37c289cc",
+        "sha256_in_prefix": "673226b95b37f6f1e42961a01306e39486d143e91db244d12c7eb7ac37c289cc",
+        "size_in_bytes": 28125
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/promise_list.py",
+        "path_type": "hardlink",
+        "sha256": "2555153cda54a767bc1b60b100a41820591e807499fc62b2cc7f6d4251ae94d8",
+        "sha256_in_prefix": "2555153cda54a767bc1b60b100a41820591e807499fc62b2cc7f6d4251ae94d8",
+        "size_in_bytes": 4576
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/pyutils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/pyutils/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d127cfa52eb63207e548e4cd23362674f874ed7e582239e9786a224d472e67db",
+        "sha256_in_prefix": "d127cfa52eb63207e548e4cd23362674f874ed7e582239e9786a224d472e67db",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/pyutils/__pycache__/version.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad5d5dcddd41f221d1cc12713da161c42d256febe98d05dad5e728fc6008cdba",
+        "sha256_in_prefix": "ad5d5dcddd41f221d1cc12713da161c42d256febe98d05dad5e728fc6008cdba",
+        "size_in_bytes": 2477
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/pyutils/version.py",
+        "path_type": "hardlink",
+        "sha256": "72b29f226f0df18b32d4312ea1914e8273d90a79eda6666d35b4b765e3f4d206",
+        "sha256_in_prefix": "72b29f226f0df18b32d4312ea1914e8273d90a79eda6666d35b4b765e3f4d206",
+        "size_in_bytes": 2507
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "315e28f52d343544823396ffa4f607850aca9a4ce9004da08dc03b5622a73b1c",
+        "sha256_in_prefix": "315e28f52d343544823396ffa4f607850aca9a4ce9004da08dc03b5622a73b1c",
+        "size_in_bytes": 145
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__pycache__/asyncio.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "1fe8a42b1e1ad5a37c821405f57071db990e8adbb671270df298fc7ab91b4e40",
+        "sha256_in_prefix": "1fe8a42b1e1ad5a37c821405f57071db990e8adbb671270df298fc7ab91b4e40",
+        "size_in_bytes": 1078
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__pycache__/gevent.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "df5deafa7fff07b64d8d66dc529ae1b0b7dc7526f32c25e84e95b48fe73b28e8",
+        "sha256_in_prefix": "df5deafa7fff07b64d8d66dc529ae1b0b7dc7526f32c25e84e95b48fe73b28e8",
+        "size_in_bytes": 958
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__pycache__/immediate.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2558e30141edda64677dadb30b78c0d1533b7b11ffe2aba6f6c79f2cc9fadc80",
+        "sha256_in_prefix": "2558e30141edda64677dadb30b78c0d1533b7b11ffe2aba6f6c79f2cc9fadc80",
+        "size_in_bytes": 913
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/__pycache__/thread.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "75fe44049e266a5b59abe8d14fcfd25f4afe1605e2c999e2ed9380d4e8539711",
+        "sha256_in_prefix": "75fe44049e266a5b59abe8d14fcfd25f4afe1605e2c999e2ed9380d4e8539711",
+        "size_in_bytes": 932
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/asyncio.py",
+        "path_type": "hardlink",
+        "sha256": "67de0fc2401777c3c3c9b25433bfed2e50e1fc0530e496c8e0215183a277fcd2",
+        "sha256_in_prefix": "67de0fc2401777c3c3c9b25433bfed2e50e1fc0530e496c8e0215183a277fcd2",
+        "size_in_bytes": 512
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/gevent.py",
+        "path_type": "hardlink",
+        "sha256": "3e70752c8d8e5e76caeb8aaf21c5e7a15f7c55b17a90f6a1e73aac87cbfa4260",
+        "sha256_in_prefix": "3e70752c8d8e5e76caeb8aaf21c5e7a15f7c55b17a90f6a1e73aac87cbfa4260",
+        "size_in_bytes": 502
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/immediate.py",
+        "path_type": "hardlink",
+        "sha256": "e1a75d0cb045957c223815d4da2db019c79dff3a2d7c4a18126fbfb1d78acb55",
+        "sha256_in_prefix": "e1a75d0cb045957c223815d4da2db019c79dff3a2d7c4a18126fbfb1d78acb55",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/schedulers/thread.py",
+        "path_type": "hardlink",
+        "sha256": "a4af3386725686f3378a201cf2bca8a3cf9b2b69f2da11382684ac21204153db",
+        "sha256_in_prefix": "a4af3386725686f3378a201cf2bca8a3cf9b2b69f2da11382684ac21204153db",
+        "size_in_bytes": 435
+      },
+      {
+        "_path": "lib/python3.7/site-packages/promise/utils.py",
+        "path_type": "hardlink",
+        "sha256": "bfb4ac776966f7f80b12fcbae10ee85efe5584eb78acf30738684896bf6825ec",
+        "sha256_in_prefix": "bfb4ac776966f7f80b12fcbae10ee85efe5584eb78acf30738684896bf6825ec",
+        "size_in_bytes": 1624
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1b1eeecce6732c72b3300e6d0769601cef9dd0efa7e1476ccf4feac0da177832",
+  "size": 38606,
+  "subdir": "osx-64",
+  "timestamp": 1567009403283,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/promise-2.2.1-py37_0.conda",
+  "version": "2.2.1"
+}

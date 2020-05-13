@@ -1,0 +1,201 @@
+{
+  "build": "pyhe6710b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "googleapis-common-protos",
+    "protobuf >=3.7,<4",
+    "python",
+    "tensorflow"
+  ],
+  "extracted_package_dir": "/Users/nicholasblack/anaconda3/pkgs/tensorflow-metadata-0.14.0-pyhe6710b0_1",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/LICENSE",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/namespace_packages.txt",
+    "lib/python3.7/site-packages/tensorflow_metadata-0.14.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/tensorflow_metadata/__init__.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/__init__.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__init__.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/anomalies_pb2.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/path_pb2.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/schema_pb2.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/statistics_pb2.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/version.py",
+    "lib/python3.7/site-packages/tensorflow_metadata/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/anomalies_pb2.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/path_pb2.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/schema_pb2.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/statistics_pb2.cpython-37.pyc",
+    "lib/python3.7/site-packages/tensorflow_metadata/__pycache__/version.cpython-37.pyc"
+  ],
+  "fn": "tensorflow-metadata-0.14.0-pyhe6710b0_1.conda",
+  "legacy_bz2_md5": "f7ba63abfe159f061e2a7450cb476358",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/Users/nicholasblack/anaconda3/pkgs/tensorflow-metadata-0.14.0-pyhe6710b0_1",
+    "type": 1
+  },
+  "md5": "fbf17e0539ae27ff206333b3d1d4b0c1",
+  "name": "tensorflow-metadata",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/nicholasblack/anaconda3/pkgs/tensorflow-metadata-0.14.0-pyhe6710b0_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "9df6cd8aaf0768103846a8502186ed55a54a45c3f7cd9fce531b573cd400d8d9",
+        "sha256_in_prefix": "9df6cd8aaf0768103846a8502186ed55a54a45c3f7cd9fce531b573cd400d8d9",
+        "size_in_bytes": 11418
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7e260fcb19a2df772fb435218ba5f5b6a0bbf8fd55e879893ec29e1a1fda9780",
+        "sha256_in_prefix": "7e260fcb19a2df772fb435218ba5f5b6a0bbf8fd55e879893ec29e1a1fda9780",
+        "size_in_bytes": 2244
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "35ef16c1f5412397365b478d73825bf1efd17450f7e771da8a1895849b36710c",
+        "sha256_in_prefix": "35ef16c1f5412397365b478d73825bf1efd17450f7e771da8a1895849b36710c",
+        "size_in_bytes": 1797
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3e1ff3dbcc13714ec79d0c1243ac8243ece47062b88787a10df3fc6fa5281d51",
+        "sha256_in_prefix": "3e1ff3dbcc13714ec79d0c1243ac8243ece47062b88787a10df3fc6fa5281d51",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/namespace_packages.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata-0.14.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3080aab6bdf79fc150ad13afc3dbe04dfe77b2bb6881590713448f6eb59af44a",
+        "sha256_in_prefix": "3080aab6bdf79fc150ad13afc3dbe04dfe77b2bb6881590713448f6eb59af44a",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6c5457e28d33f526a61aa2d086612155b85953c6754fe6d25a1f8f1ed48d2cce",
+        "sha256_in_prefix": "6c5457e28d33f526a61aa2d086612155b85953c6754fe6d25a1f8f1ed48d2cce",
+        "size_in_bytes": 643
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "08ea6d22f20556464642a12813b2a33a6b12a97b787a9fb9079e2caf298cd7eb",
+        "sha256_in_prefix": "08ea6d22f20556464642a12813b2a33a6b12a97b787a9fb9079e2caf298cd7eb",
+        "size_in_bytes": 650
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/v0/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "da6c2682ccf232ab2405e6ca9de545ecae8e6014c897c0b06c741f10063f205a",
+        "sha256_in_prefix": "da6c2682ccf232ab2405e6ca9de545ecae8e6014c897c0b06c741f10063f205a",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/v0/anomalies_pb2.py",
+        "path_type": "hardlink",
+        "sha256": "0074c6fa47eb749398d220cf38218b906510ce1699adfb994e7b14b873bc4ba3",
+        "sha256_in_prefix": "0074c6fa47eb749398d220cf38218b906510ce1699adfb994e7b14b873bc4ba3",
+        "size_in_bytes": 39387
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/v0/path_pb2.py",
+        "path_type": "hardlink",
+        "sha256": "32441dbf73cb69aefdaab0d68f820fe5e111def071f886041f930cfaf92ce49e",
+        "sha256_in_prefix": "32441dbf73cb69aefdaab0d68f820fe5e111def071f886041f930cfaf92ce49e",
+        "size_in_bytes": 2114
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/v0/schema_pb2.py",
+        "path_type": "hardlink",
+        "sha256": "f62a32aa5b59a3b017b20202a11159b0d639d80bdbbfd63f6fe8ba7b01d07af6",
+        "sha256_in_prefix": "f62a32aa5b59a3b017b20202a11159b0d639d80bdbbfd63f6fe8ba7b01d07af6",
+        "size_in_bytes": 69808
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/proto/v0/statistics_pb2.py",
+        "path_type": "hardlink",
+        "sha256": "a8e799fb857a3ad4ab555bd52d2067429d74f7dd3a67c0fb4169c64b24d07c35",
+        "sha256_in_prefix": "a8e799fb857a3ad4ab555bd52d2067429d74f7dd3a67c0fb4169c64b24d07c35",
+        "size_in_bytes": 63625
+      },
+      {
+        "_path": "site-packages/tensorflow_metadata/version.py",
+        "path_type": "hardlink",
+        "sha256": "ca3071de81552903f962237d6d724677db9bb8f4d4d3b6be0082e25550993172",
+        "sha256_in_prefix": "ca3071de81552903f962237d6d724677db9bb8f4d4d3b6be0082e25550993172",
+        "size_in_bytes": 715
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/anomalies_pb2.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/path_pb2.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/schema_pb2.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/proto/v0/__pycache__/statistics_pb2.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/tensorflow_metadata/__pycache__/version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e74cfced941f39838ef1353758066516a451e9e0472054eba49986d12983bfc5",
+  "size": 187198,
+  "subdir": "noarch",
+  "timestamp": 1567015182762,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tensorflow-metadata-0.14.0-pyhe6710b0_1.conda",
+  "version": "0.14.0"
+}
